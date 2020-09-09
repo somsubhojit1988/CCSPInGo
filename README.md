@@ -1,0 +1,1 @@
+My humble attempt at implementing the solutions of (Classic Computer Science Problems in Python)[https://www.manning.com/books/classic-computer-science-problems-in-python?a_aid=oaksnow&a_bid=d326fe0b], in Golang.
